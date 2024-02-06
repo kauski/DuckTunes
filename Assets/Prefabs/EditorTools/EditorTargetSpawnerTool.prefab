@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2567095616755009495
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2567095616755009496}
+  - component: {fileID: 2567095616755009497}
+  m_Layer: 0
+  m_Name: EditorTargetSpawnerTool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2567095616755009496
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2567095616755009495}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2567095616755009497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2567095616755009495}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49cab366268558442b94569bee76620c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Spline:
+    Points:
+    - {x: -1, y: 0}
+    - {x: -0.5, y: 0.5}
+    - {x: 0.5, y: -0.5}
+    - {x: 1, y: 0}
+    _autoSetHandlePoints: 0
+  Circles: []
+  Handles:
+  - {x: -0.5, y: 0.5}
+  - {x: 0.5, y: -0.5}
+  Anchors:
+  - {x: -1, y: 0}
+  - {x: 1, y: 0}
+  AnchorColor: {r: 1, g: 0, b: 0, a: 1}
+  HandleColor: {r: 1, g: 1, b: 1, a: 1}
+  SegmentColor: {r: 0, g: 1, b: 0, a: 1}
+  SelectedSegmentColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  AnchorDiameter: 0.1
+  HandleDiameter: 0.14
+  DisplayControlPoints: 1
+  StartCircleColor: {r: 0, g: 0, b: 1, a: 1}
+  EndCircleColor: {r: 0, g: 1, b: 1, a: 1}
+  CircleSize: 0.42
+  Resolution: 1
+  Spacing: 0.1
+  _targetPrefab: {fileID: 4150558375805960877, guid: 80ec265e6ea8d8443b9a2ae67237e62f, type: 3}
+  id: {fileID: 11400000, guid: 729798db7bae40d43aa7d7b8df61b7a4, type: 2}

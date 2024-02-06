@@ -1,0 +1,86 @@
+.button {
+    background-color: rgb(6, 87, 153);
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-top-left-radius: 37px;
+    border-bottom-left-radius: 37px;
+    border-top-right-radius: 37px;
+    border-bottom-right-radius: 37px;
+    -unity-font: url('project://database/Assets/Teko-Regular.ttf?fileID=12800000&guid=27c77dc03e3b1a44c90f86622a777606&type=3#Teko-Regular');
+    -unity-font-definition: url('project://database/Assets/Teko-Regular%20SDF.asset?fileID=11400000&guid=18f5e47ca5ca18f4888abb69a06ed6ab&type=2#Teko-Regular SDF');
+    font-size: 52px;
+    letter-spacing: 1px;
+    color: rgb(255, 255, 255);
+    -unity-font-style: bold;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+}
+
+.textnotbutton {
+    background-color: rgb(6, 87, 153);
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-top-left-radius: 37px;
+    border-bottom-left-radius: 37px;
+    border-top-right-radius: 37px;
+    border-bottom-right-radius: 37px;
+    -unity-font: url('project://database/Assets/Teko-Regular.ttf?fileID=12800000&guid=27c77dc03e3b1a44c90f86622a777606&type=3#Teko-Regular');
+    -unity-font-definition: url('project://database/Assets/Teko-Regular%20SDF.asset?fileID=11400000&guid=18f5e47ca5ca18f4888abb69a06ed6ab&type=2#Teko-Regular SDF');
+    font-size: 52px;
+    letter-spacing: 1px;
+    color: rgb(255, 255, 255);
+    -unity-font-style: bold;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+}
+
+.button:hover {
+    background-color: rgb(4, 4, 5);
+    color: rgb(255, 255, 255);
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    -unity-text-outline-color: rgb(255, 255, 255);
+}
+
+.button:active {
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-color: rgb(7, 63, 121);
+    color: rgb(7, 63, 121);
+    -unity-text-outline-color: rgb(7, 63, 121);
+    -unity-background-scale-mode: stretch-to-fill;
+    -unity-slice-left: 0;
+    -unity-slice-top: 0;
+    -unity-slice-right: 0;
+    -unity-slice-bottom: 0;
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875773774592",
+    "project_id": "ducktunes-6e828",
+    "storage_bucket": "ducktunes-6e828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875773774592:android:1309bcc5413e67488d41e5",
+        "android_client_info": {
+          "package_name": "com.Ducktunes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875773774592-raojq8cg9k9afctli0k8mrdv73htniri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdNK8Y-WYl_vpNGKtIzpnvivLs_-A6rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875773774592-raojq8cg9k9afctli0k8mrdv73htniri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

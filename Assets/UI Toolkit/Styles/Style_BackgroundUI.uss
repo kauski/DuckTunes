@@ -1,0 +1,18 @@
+.background {
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    background-color: rgb(10, 19, 63);
+    border-left-width: 26px;
+    border-right-width: 26px;
+    border-top-width: 26px;
+    border-bottom-width: 26px;
+    border-top-left-radius: 67px;
+    border-bottom-left-radius: 67px;
+    border-top-right-radius: 67px;
+    border-bottom-right-radius: 67px;
+    width: 925%;
+    height: 0;
+}

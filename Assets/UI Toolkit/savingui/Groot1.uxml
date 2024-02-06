@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="MainMenu" src="project://database/Assets/UI%20Toolkit/MainMenu.uxml?fileID=9197481963319205126&amp;guid=6a0c85273600c364796e0dd97239dc94&amp;type=3#MainMenu" />
+    <ui:Template name="Settings" src="project://database/Assets/UI%20Toolkit/Settings.uxml?fileID=9197481963319205126&amp;guid=3e1d653c6e645a54286ec8b4a8f962a2&amp;type=3#Settings" />
+    <ui:Template name="Makers" src="project://database/Assets/UI%20Toolkit/Makers.uxml?fileID=9197481963319205126&amp;guid=83cf0403237a4094a87937ac9e998e0d&amp;type=3#Makers" />
+    <ui:Instance template="MainMenu" name="MainMenu" style="display: flex; visibility: visible; overflow: visible; opacity: 1; position: absolute;" />
+    <ui:Instance template="Settings" name="Settings" style="display: none;" />
+    <ui:Instance template="Makers" name="Makers" style="display: none;" />
+</ui:UXML>

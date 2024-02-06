@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6645125135173982783
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8361606947693409632, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409632, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: TomatSplash
+      value: 
+      objectReference: {fileID: 21300000, guid: 9bcad351c9f4d2f40bb9c11dc50a4297, type: 3}
+    - target: {fileID: 8361606947693409632, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: ChangeSprite
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409632, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: _tomatoNormalSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 86aab7ff104f6be448e786b62a21b938, type: 3}
+    - target: {fileID: 8361606947693409632, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: _tomatoSplashedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9bcad351c9f4d2f40bb9c11dc50a4297, type: 3}
+    - target: {fileID: 8361606947693409634, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 54daba51744bb984aaae38cdc8c9060d, type: 3}
+    - target: {fileID: 8361606947693409635, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409635, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409635, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409635, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409635, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409635, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409635, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409635, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409635, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409635, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409635, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409635, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409635, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8361606947693409644, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
+      propertyPath: m_Name
+      value: Tomato Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: df6761a29d87cea47a4777b3d6aaa527, type: 3}
